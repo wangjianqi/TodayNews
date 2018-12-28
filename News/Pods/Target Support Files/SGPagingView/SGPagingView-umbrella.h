@@ -10,9 +10,11 @@
 #endif
 #endif
 
+#import "UIButton+SGPagingView.h"
 #import "UIView+SGPagingView.h"
+#import "SGPagingViewPopGestureVC.h"
+#import "SGPageContentCollectionView.h"
 #import "SGPageContentScrollView.h"
-#import "SGPageContentView.h"
 #import "SGPageTitleView.h"
 #import "SGPageTitleViewConfigure.h"
 #import "SGPagingView.h"
